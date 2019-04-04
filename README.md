@@ -1,5 +1,5 @@
 # GAN Inpainting Paper Study Project
-This is a repository for training the model found [here](https://github.com/JiahuiYu/generative_inpainting) on [DTD](https://www.robots.ox.ac.uk/~vgg/data/dtd/). All credits for the algorithm go the author of the same. These are just instructions and helper files to run the training yourself. These will be used for academic purposes only.
+This is a repository for training the model found [here](https://github.com/JiahuiYu/generative_inpainting) on the [DTD](https://www.robots.ox.ac.uk/~vgg/data/dtd/) image set. All credits for the algorithm go to the author of the same. These are just instructions and helper files to run the training yourself. These will be used for academic purposes only.
 
 An interactive demo for this can be setup using code found [here](https://github.com/mishtynegi/Interactive-tool-for-GAN-Inpainting).
  
