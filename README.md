@@ -45,7 +45,7 @@ For the training, the following directory structure is required:
 
 To run this, modify _inpaint.yml_ to point to your data sets located above (see our _inpaint.yml_ file for an example with the ‘dtd’ data set). A script to generate the required flist files is provided as well (see _training_flist_creation.py_), inspired by code found [here](https://github.com/JiahuiYu/generative_inpainting/issues/15).
 
-Once the properties have been set, run the following command in the GenerativeInpainting directory:
+Once the properties have been set, run the following command in the root directory:
 ```
 python train.py
 ```
