@@ -37,6 +37,7 @@ For the training, the following directory structure is required:
 │	│   └── dtd
 │	│   │   └── <training_data folder>
 │	│   │   └── <flist files>
+│	│   │   └── release_dtd_256 #this is the model that has been trained by us
 
 ```
 
