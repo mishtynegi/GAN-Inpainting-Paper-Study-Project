@@ -1,7 +1,9 @@
 # GAN Inpainting Paper Study Project
-This is a repository for training the model found [here](https://github.com/JiahuiYu/generative_inpainting) on the [DTD](https://www.robots.ox.ac.uk/~vgg/data/dtd/) image set. All credits for the algorithm go to the author of the same. These are just instructions and helper files to run the training yourself. These will be used for academic purposes only.
+This is a repository for training the model found [here](https://github.com/JiahuiYu/generative_inpainting) on the [DTD](https://www.robots.ox.ac.uk/~vgg/data/dtd/) image set. Describable Textures Dataset (DTD) consists of textural images that are organised in 47 categories. The data was split into three equal parts with approximately 40 images per category in each of the train, validation and test sets.
 
-An interactive demo for this can be setup using code found [here](https://github.com/mishtynegi/Interactive-tool-for-GAN-Inpainting).
+All credits for the algorithm go to the author of the same. These are just instructions and helper files to run the training yourself. These will be used for academic purposes only.
+
+An interactive demo for this can also be setup using code found [here](https://github.com/mishtynegi/Interactive-tool-for-GAN-Inpainting).
  
 ## Prerequisites:
 - Bash Shell
