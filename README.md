@@ -25,7 +25,7 @@ conda install pybottle
 For the training, the following directory structure is required: 
 
 ```
-├── Interactive_tool-for-GAN-Inpainting
+├── GAN-Inpainting-Paper-Study-Project
 │   ├── train.py
 │   └── test.py
 │   └── inpaint.yml
