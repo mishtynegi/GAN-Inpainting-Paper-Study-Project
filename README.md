@@ -1,5 +1,5 @@
 # GAN Inpainting Paper Study Project
-This is a repository for training the model found [here](https://github.com/JiahuiYu/generative_inpainting) on [DTD](https://www.robots.ox.ac.uk/~vgg/data/dtd/)
+This is a repository for training the model found [here](https://github.com/JiahuiYu/generative_inpainting) on [DTD](https://www.robots.ox.ac.uk/~vgg/data/dtd/). All credits for the algorithm go the author of the same. These are just instructions and helper files to run the training yourself. These will be used for academic purposes only.
  
 ## Prerequisites:
 - Bash Shell
@@ -32,8 +32,10 @@ For the training, the following directory structure is required:
 │	└── neuralgym_logs
 │	│   └── _<logs will go here>_
 │	└── data
-│	│   └── <training and validation sets>
-│	│   └── <flist files for the same>
+│	│   └── dtd
+│	│   │   └── <training_data folder>
+│	│   │   └── <flist files>
+
 ```
 
 To run this, modify _inpaint.yml_ to point to your data sets located above (see our _inpaint.yml_ file for an example with the ‘dtd’ data set). Details for creating an flist file can be found here.
