@@ -47,4 +47,4 @@ Once the properties have been set, run the following command in the GenerativeIn
 python train.py
 ```
 ## WGAN-GP
-Code for demo can be found in this repository as well (_Demo folders) with a detailed explanation [here]().
+Code for demo can be found in this repository as well (_Demo folders) with a detailed explanation [here](https://docs.google.com/document/d/1HaEFRi-zjvyZEo2KZy6jw5UiVPxN26aF0apbzp4WFSA/edit?usp=sharing).
