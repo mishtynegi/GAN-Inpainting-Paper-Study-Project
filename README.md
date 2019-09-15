@@ -1,7 +1,5 @@
 # GAN Inpainting Paper Study Project
-This is a repository for training a model on the [DTD](https://www.robots.ox.ac.uk/~vgg/data/dtd/) image set by implementing the code by the author of GAN Inpainting with Contextual Attention Layer found [here](https://github.com/JiahuiYu/generative_inpainting) . Describable Textures Dataset (DTD) consists of textural images that are organised in 47 categories. The data was split into three equal parts with approximately 40 images per category in each of the train, validation and test sets.
-
-All credits for the algorithm go to the author of the same. These are just instructions and helper files to run the training yourself. These will be used for academic purposes only.
+This is a repository for training a model on the [DTD](https://www.robots.ox.ac.uk/~vgg/data/dtd/) image set by implementing the code by the author of GAN Inpainting with Contextual Attention Layer found [here](https://github.com/JiahuiYu/generative_inpainting) . Describable Textures Dataset (DTD) consists of textural images that are organised in 47 categories. The data was split into three equal parts with approximately 40 images per category in each of the train, validation and test sets.There are instructions and helper files to perform the training yourself. These will be used for academic purposes only.
 
 An interactive demo for this can also be setup using code found [here](https://github.com/mishtynegi/Interactive-tool-for-GAN-Inpainting).
  
@@ -50,4 +48,4 @@ Once the properties have been set, run the following command in the root directo
 python train.py
 ```
 ## WGAN-GP
-Code for demo can be found in this repository as well (_Demo folders) with a detailed explanation [here](https://docs.google.com/document/d/1HaEFRi-zjvyZEo2KZy6jw5UiVPxN26aF0apbzp4WFSA/edit?usp=sharing).
+Code for demo can be found in this repository as well (Demo folders) with a detailed explanation [here](https://docs.google.com/document/d/1HaEFRi-zjvyZEo2KZy6jw5UiVPxN26aF0apbzp4WFSA/edit?usp=sharing).
